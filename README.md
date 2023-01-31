@@ -220,9 +220,13 @@ Demi keamanan, maka untuk ```Logout``` bisa dilakukan di Aplikasi Whatsapp Smart
 
 # Lisensi
 
+1. Berlangganan
 Jika mendaftar sebagai ```berlangganan``` maka jika muncul halaman seperti gambar dibawah ini segeralah hubungi Email: kanglerian@gmail.com untuk mendaftar atau bisa klik tombol <b>Daftar Sekarang!</b>
 
 ![Logout](/images/Group-10.jpg ':size=450')
+
+2. Free License
+Ini adalah lisensi trial dapat digunakan selama 1 bulan pemakaian.
 
 # Tips & Trik
 
