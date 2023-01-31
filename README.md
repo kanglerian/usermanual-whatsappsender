@@ -228,6 +228,9 @@ Jika mendaftar sebagai ```berlangganan``` maka jika muncul halaman seperti gamba
 2. Free License
 Ini adalah lisensi trial dapat digunakan selama 1 bulan pemakaian.
 
+3. Beli Produk
+Ini adalah produk yang dibeli, maka silahkan untuk memakai tanpa batas akun dan bisa dijual kembali.
+
 # Tips & Trik
 
 Untuk menghindari akun terkena ```banned``` maka disarankan untuk mengirim pesan per 100 nomor telpon. Jika terdapat target sebanyak 1000 kontak, maka kirim 100 kontak per 10 kali.
