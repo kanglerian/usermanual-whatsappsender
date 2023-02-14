@@ -70,23 +70,11 @@ Ada dua macam aplikasi server yang kita sediakan. Dengan git repository atau den
 2. Copy ke direktori ```C:/``` dan letakan di luar berdekatan dengan folder Windows
 3. Buka folder `whatsapp-sender-server` kemudian klik kanan dan pilih ```Git bash```
 4. Ketik ```npm install``` setelah itu tunggu sampai selesai
-5. Buka file di ```node_modules/whatsapp-web.js/src/util``` kemudian edit file ```Injected.js```
-
-```javascript
-window.Store.Features = window.mR.findModule('FEATURE_CHANGE_EVENT')[0].LegacyPhoneFeatures;
-```
-
-Menjadi
-
-```javascript
-window.Store.Features = window.mR.findModule('LegacyPhoneFeatures')[0];
-```
-
-6. Buka folder `whatsapp-sender-server` kemudian klik kanan dan pilih ```Git bash```
-7. Ketik perintah ```pm2 start index.js``` untuk menjalankan server
-8. Ketik perintah ```pm2 save``` untuk menyiapkan server berjalan otomatis ketika menyalakan komputer (startup)
-9. Ketik perintah ```pm2 list``` untuk melihat status server sedang ```online``` atau ```offline```
-10. Jika sudah online, maka buka aplikasi Whatsapp Sender Desktopnya
+5. Buka folder `whatsapp-sender-server` kemudian klik kanan dan pilih ```Git bash```
+6. Ketik perintah ```pm2 start index.js``` untuk menjalankan server
+7. Ketik perintah ```pm2 save``` untuk menyiapkan server berjalan otomatis ketika menyalakan komputer (startup)
+8. Ketik perintah ```pm2 list``` untuk melihat status server sedang ```online``` atau ```offline```
+9. Jika sudah online, maka buka aplikasi Whatsapp Sender Desktopnya
 
 ---
 
